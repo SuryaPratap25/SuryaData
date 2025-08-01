@@ -1,2 +1,2 @@
 i'm ingesting real time data 
-new data ingested 
+new data ingested or not
